@@ -94,7 +94,8 @@ hr{
     left: 0;
     height: 100%;
     width: 8rem;
-    background-color: #FDF6F0;
+    /* background-color: #FDF6F0; */
+    background-color: #F8E2CF;
     padding: 1.5rem;
     -webkit-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -386,7 +387,8 @@ pointer-events: auto;
             align-items: center;
     -ms-flex-pack: distribute;
         justify-content: space-around;
-    background-color: #FDF6F0;
+    /* background-color: #FDF6F0; */
+    background-color: #F8E2CF;
 }
 .home_top-photo{
     position: relative;
