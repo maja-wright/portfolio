@@ -422,7 +422,7 @@ pointer-events: auto;
             align-items: center;
     -ms-flex-pack: distribute;
         justify-content: space-around;
-    background-color: rgba(255, 218, 199, .3);
+    background-color: #FFF5EB;
     overflow: hidden;
 }
 .home_top-photo{
@@ -475,7 +475,7 @@ pointer-events: auto;
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: transparent;
+    background-color: #FFF5EB;
     border-left: 2px solid #7F7C82;
     -webkit-animation: typing 2s steps(12) infinite;
             animation: typing 2s steps(12) infinite;
@@ -852,8 +852,7 @@ pointer-events: auto;
             justify-content: center;
     -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
             box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-    /* background-color: #FDF6F0; */
-    background-color: rgba(255, 218, 199, .3);
+    background-color: #FFF5EB;
     border-radius: 2rem;
     padding: 3rem;
     width: 90%;
