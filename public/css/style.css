@@ -1135,6 +1135,7 @@ pointer-events: auto;
             -ms-flex-direction: column;
                 flex-direction: column;
         background-image: -webkit-linear-gradient(#FFFFFF 50%, rgba(127, 124, 130, 0.4) 50%);
+        /* min-height: calc(100vh - 34.4px); */
     }
 }
 .contact_text{
