@@ -475,7 +475,7 @@ pointer-events: auto;
     top: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(255, 218, 199, .3);
+    background-color: transparent;
     border-left: 2px solid #7F7C82;
     -webkit-animation: typing 2s steps(12) infinite;
             animation: typing 2s steps(12) infinite;
