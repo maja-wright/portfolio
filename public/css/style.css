@@ -766,10 +766,10 @@ pointer-events: auto;
     background-color: #ffff;
     border-radius: 2rem;
     margin: 1.5rem;
-    padding: 1.5rem;
+    padding: 2rem;
     text-align: center;
     color: #7F7C82;
-    width: 35%;
+    width: 38%;
 }
 .card-pink{
     background-color: #FFDAC7;
@@ -777,12 +777,25 @@ pointer-events: auto;
 .card_icon{
     font-size: 2.5rem;
 }
+.card_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .card_list{
     list-style-type: none;
     font-size: 1.6rem;
+    text-align: start;
+    padding: 1.5rem;
 }
 .card_list i{
-    margin-right: 0.5rem;
+    margin-right: 1.5rem;
+}
+.card_list img{
+    margin-right: 1.5rem;
+    height: 1.6rem;
+    width: auto;
 }
 .card_img{
     width: auto;
